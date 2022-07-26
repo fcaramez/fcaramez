@@ -3,14 +3,6 @@
 
 <br>
 
-<div align="center" >
-
-You can reach me @ **fcaramez.duarte@gmail.com**
-
-</div>
-
-<br>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/fcaramez" target="blank"><img align="center"
