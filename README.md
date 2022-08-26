@@ -63,4 +63,8 @@
     alt="fcaramez" 
     bg_color=#808080/></p>
 <br>
+<p align="center" ><img align="center"
+    src="https://www.codewars.com/users/fcaramez/badges/large"
+    alt="fcaramez" 
+    bg_color=#808080/></p>
 
