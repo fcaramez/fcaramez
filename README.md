@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/fcaramez" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a> 
-  <a href="https://instagram.com/xico_m_duarte" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="xico_m_duarte" height="30" width="40" /></a> 
 </p>
 <br>
 <h3 align="center">Languages and Tools:</h3>
