@@ -1,5 +1,5 @@
-<h1 align="center">Hey there! I'm Xico Duarte!</h1>
-<h3 align="center">Teacher Assistant @ Ironhack Portugal 🚀</h3>
+<h1 align="center">Hey there! I'm Xico!</h1>
+<h3 align="center">FullStack Developer | Test Analyst 🚀</h3>
 
 <br>
 
