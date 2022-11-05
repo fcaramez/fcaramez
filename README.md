@@ -1,4 +1,9 @@
-<h1 align="center">FullStack Developer | Test Analyst 🚀</h1>
+<p align="center">
+    <h1 align="center">✩&emsp;fcaramez&emsp;✩</h1>
+</p>
+<p align="center">
+    <img alt="auto type" src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Test+Analyst&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
