@@ -19,9 +19,13 @@
     alt="fcaramez" 
     bg_color=#808080/></p>
 <br>
-<p align="center" ><img align="center"
+<p align="center" >
+    <a href="https://www.codewars.com/users/fcaramez" >
+    <img align="center"
     src="https://www.codewars.com/users/fcaramez/badges/large"
     alt="fcaramez" 
-    bg_color=#808080/></p>
+    bg_color=#808080/>
+    </a>
+</p>
 
 <h1 align="center"> Check out my most recent app:  <a href="https://ih-karaoke-app.web.app/" target="_blank" rel="noreferrer" >Ironhack Karaoke App</a> </h1>
