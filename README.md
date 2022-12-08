@@ -19,7 +19,7 @@
     alt="fcaramez" 
     bg_color=#808080/></p>
 <br>
-<p align="center" >
+<p align="center" target="_blank" >
     <a href="https://www.codewars.com/users/fcaramez" >
     <img align="center"
     src="https://www.codewars.com/users/fcaramez/badges/large"
