@@ -19,6 +19,8 @@
     alt="fcaramez" 
     bg_color=#808080/></p>
 <br>
+<p align="center" > <a align="center" href="https://codetrace.com/users/fcaramez"><img src="https://codetrace.com/widget/fcaramez" width="620" height="150" /></a></p>
+<br>
 <p align="center" target="_blank" >
     <a href="https://www.codewars.com/users/fcaramez" >
     <img align="center"
@@ -27,5 +29,3 @@
     bg_color=#808080/>
     </a>
 </p>
-
-<h1 align="center"> Check out my most recent app:  <a href="https://ih-karaoke-app.web.app/" target="_blank" rel="noreferrer" >Ironhack Karaoke App</a> </h1>
